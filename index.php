@@ -4,7 +4,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui">    
-    <title>BADBOY CHECKER</title></title>
+    <title>undefy</title></title>
     <link rel="apple-touch-icon" href="theme-assets/images/ico/apple-icon-120.png">
     <link rel="shortcut icon" type="image/x-icon" href="theme-assets/images/ico/favicon.ico">
     <link href="https://fonts.googleapis.com/css?family=Muli:300,300i,400,400i,600,600i,700,700i%7CComfortaa:300,400,700" rel="stylesheet">
@@ -26,7 +26,7 @@
 		<div class="col-md-8">
 			<div class="card">
 				<div class="card-body text-center">
-					<h4 class="mb-2"><strong>𝐁𝐀𝐃𝐁𝐎𝐘 𝐂𝐇𝐄𝐂𝐊𝐄𝐑 🇮🇳<br<@fareschecker</br></strong></h4>
+					<h4 class="mb-2"><strong>undefy chk<br<@undefyvouch</br></strong></h4>
 					<textarea rows="14" class="form-control text-center form-checker mb-2" placeholder="PUT CC HERE"></textarea>	
 						<a class="nav-link btn btn-success create-new-button" id="createbuttonDropdown" data-toggle="dropdown" aria-expanded="false" href="https://t.me/badboy_checkers">CLICK HERE TO JOIN @𝑩𝑨𝑫𝑩𝑶𝒀 𝑪𝑯𝑲 </a> <br>
 					
